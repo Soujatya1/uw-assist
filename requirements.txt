@@ -1,2 +1,7 @@
+langchain_community
+langchain_groq
+langchain_core
+PyPDF2
+pdfplumber
 streamlit
-pandas
+sentence_transformers
